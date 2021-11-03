@@ -30,3 +30,8 @@
   - rootReducer -> cartReducer -> toggleCartHidden
   - connect -> mapDispatchToProps with CartIcon
   - connect -> mapStateToProps with Header
+
+## Add CartItem into cartReducer
+  - add addItem action into reducer
+  - mapDispatchToProps to CollectionItem
+  
